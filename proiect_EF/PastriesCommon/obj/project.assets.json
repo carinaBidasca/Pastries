@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj",
+      "projectUniqueName": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj",
       "projectName": "PastriesCommon",
-      "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj",
+      "projectPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj",
       "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\obj\\",
+      "outputPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",

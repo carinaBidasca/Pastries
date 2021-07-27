@@ -164,7 +164,7 @@ namespace tema3.Controllers
 
             return StatusCode(StatusCodes.Status500InternalServerError);
         }
-        /*
+        
         /// <summary>
         ///get by quantity
         /// </summary>
@@ -187,7 +187,7 @@ namespace tema3.Controllers
 
             return Ok(result.Select(x => x.ToModel()));
         }
-        */
+        
         /// <summary>
         /// add product to ingredient
         /// </summary>

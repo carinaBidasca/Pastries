@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj": {}
+    "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesInterfaces\\PastriesInterfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj": {
+    "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj",
+        "projectUniqueName": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj",
         "projectName": "PastriesCommon",
-        "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj",
+        "projectPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj",
         "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\obj\\",
+        "outputPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj": {
+    "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesInterfaces\\PastriesInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj",
+        "projectUniqueName": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesInterfaces\\PastriesInterfaces.csproj",
         "projectName": "PastriesInterfaces",
-        "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj",
+        "projectPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesInterfaces\\PastriesInterfaces.csproj",
         "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\obj\\",
+        "outputPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesInterfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj": {
-                "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj"
+              "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj": {
+                "projectPath": "C:\\Users\\carina.bidasca\\Documents\\Pastries\\proiect_EF\\PastriesCommon\\PastriesCommon.csproj"
               }
             }
           }
