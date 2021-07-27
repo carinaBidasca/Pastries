@@ -1,0 +1,14 @@
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesDataPersistence.deps.json
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesDataPersistence.dll
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesDataPersistence.pdb
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesInterfaces.dll
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesInterfaces.pdb
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\bin\Debug\netcoreapp3.1\PastriesCommon.pdb
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.csproj.AssemblyReference.cache
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.AssemblyInfoInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.AssemblyInfo.cs
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.csproj.CoreCompileInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.csproj.CopyComplete
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.dll
+C:\Users\carina.bidasca\source\repos\PastriesDataPersistence\obj\Debug\netcoreapp3.1\PastriesDataPersistence.pdb

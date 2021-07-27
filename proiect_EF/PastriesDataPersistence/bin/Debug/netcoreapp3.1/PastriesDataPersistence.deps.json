@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PastriesDataPersistence/1.0.0": {
+        "dependencies": {
+          "PastriesInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "PastriesDataPersistence.dll": {}
+        }
+      },
+      "PastriesCommon/1.0.0": {
+        "runtime": {
+          "PastriesCommon.dll": {}
+        }
+      },
+      "PastriesInterfaces/1.0.0": {
+        "dependencies": {
+          "PastriesCommon": "1.0.0"
+        },
+        "runtime": {
+          "PastriesInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PastriesDataPersistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PastriesCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PastriesInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PastriesData\PastriesData.csproj" />
+    <ProjectReference Include="..\PastriesInterfaces\PastriesInterfaces.csproj" />
+  </ItemGroup>
+
+</Project>

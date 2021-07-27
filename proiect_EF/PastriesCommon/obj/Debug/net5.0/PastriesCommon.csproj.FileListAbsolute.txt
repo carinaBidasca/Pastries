@@ -1,0 +1,12 @@
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\net5.0\PastriesCommon.deps.json
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\net5.0\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\net5.0\ref\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\net5.0\PastriesCommon.pdb
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.csproj.AssemblyReference.cache
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.AssemblyInfoInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.AssemblyInfo.cs
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.csproj.CoreCompileInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\ref\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\net5.0\PastriesCommon.pdb

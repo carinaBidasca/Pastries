@@ -1,0 +1,9 @@
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\netcoreapp3.1\PastriesCommon.deps.json
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\netcoreapp3.1\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesCommon\bin\Debug\netcoreapp3.1\PastriesCommon.pdb
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\netcoreapp3.1\PastriesCommon.csproj.AssemblyReference.cache
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\netcoreapp3.1\PastriesCommon.AssemblyInfoInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\netcoreapp3.1\PastriesCommon.AssemblyInfo.cs
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\netcoreapp3.1\PastriesCommon.csproj.CoreCompileInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\netcoreapp3.1\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesCommon\obj\Debug\netcoreapp3.1\PastriesCommon.pdb

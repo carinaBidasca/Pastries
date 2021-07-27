@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesDataPersistence\\PastriesDataPersistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj",
+        "projectName": "PastriesCommon",
+        "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj",
+        "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesDataPersistence\\PastriesDataPersistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesDataPersistence\\PastriesDataPersistence.csproj",
+        "projectName": "PastriesDataPersistence",
+        "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesDataPersistence\\PastriesDataPersistence.csproj",
+        "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesDataPersistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\carina.bidasca\\source\\repos\\PastriesData\\PastriesData.csproj": {
+                "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesData\\PastriesData.csproj"
+              },
+              "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj": {
+                "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesData\\PastriesData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesData\\PastriesData.csproj",
+        "projectName": "PastriesData",
+        "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesData\\PastriesData.csproj",
+        "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj": {
+                "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj",
+        "projectName": "PastriesInterfaces",
+        "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\PastriesInterfaces.csproj",
+        "packagesPath": "C:\\Users\\carina.bidasca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carina.bidasca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj": {
+                "projectPath": "C:\\Users\\carina.bidasca\\source\\repos\\PastriesCommon\\PastriesCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

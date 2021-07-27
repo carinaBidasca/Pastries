@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PastriesInterfaces/1.0.0": {
+        "dependencies": {
+          "PastriesCommon": "1.0.0"
+        },
+        "runtime": {
+          "PastriesInterfaces.dll": {}
+        }
+      },
+      "PastriesCommon/1.0.0": {
+        "runtime": {
+          "PastriesCommon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PastriesInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PastriesCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesServices.deps.json
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesServices.dll
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesServices.pdb
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesCommon.dll
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesInterfaces.dll
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesInterfaces.pdb
+C:\Users\carina.bidasca\source\repos\PastriesServices\bin\Debug\netcoreapp3.1\PastriesCommon.pdb
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.csproj.AssemblyReference.cache
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.AssemblyInfoInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.AssemblyInfo.cs
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.csproj.CoreCompileInputs.cache
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.csproj.CopyComplete
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.dll
+C:\Users\carina.bidasca\source\repos\PastriesServices\obj\Debug\netcoreapp3.1\PastriesServices.pdb

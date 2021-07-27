@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tema3</name>
+    </assembly>
+    <members>
+        <member name="M:tema3.Controllers.IngredientController.Get(System.Nullable{System.Int32})">
+             <summary>
+             Get the ingredient by the given id.
+             </summary>
+             <param name="id">GUID id of the ingredient.</param>
+             <remarks>
+             Sample request:
+            
+                 GET /1
+                 Authorization: "Bearer [Token]"
+            
+             </remarks>
+             <returns>The ingredient with the given id.</returns>
+             <response code="400">If id is empty.</response>      
+             <response code="404">If ingredient does not exist.</response>      
+             <response code="200">Returns the ingredient.</response>   
+        </member>
+        <member name="M:tema3.Controllers.IngredientController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Get all existing ingredients. The results will be paged
+            </summary>
+            <param name="pageNumber"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:tema3.Controllers.IngredientController.Add(tema3.Models.IngredientModel)">
+            <summary>
+            Add an ingredient in the system.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:tema3.Controllers.IngredientController.Update(System.Int32,tema3.Models.IngredientModel)">
+            <summary>
+            Update an existing ingredient.
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:tema3.Controllers.IngredientController.Delete(System.Int32)">
+            <summary>
+            Delete an existing ingredient.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:tema3.Controllers.IngredientController.AddProductToIngredient(System.Int32,tema3.Models.ProductModel)">
+            <summary>
+            add product to ingredient
+            </summary>
+            <param name="ingredientId">id ingredient</param>
+            <param name="product">produs</param>
+            <returns></returns>
+        </member>
+        <member name="T:tema3.Controllers.LoginController">
+            <summary>
+            Authenticate users
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.PastriesFactoryController.Get(System.Nullable{System.Int32})">
+            <summary>
+            get by id
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.PastriesFactoryController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            get all 
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.PastriesFactoryController.Add(tema3.Models.PastriesFactoryModel)">
+            <summary>
+            add factory
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.PastriesFactoryController.Update(System.Int32,tema3.Models.PastriesFactoryModel)">
+            <summary>
+            update with put
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.PastriesFactoryController.Delete(System.Int32)">
+             <summary>
+            delete by id
+             </summary>
+        </member>
+        <member name="M:tema3.Controllers.PastriesFactoryController.AddProductToFactory(System.Int32,tema3.Models.ProductModel)">
+            <summary>
+            add product to factory-id din ruta
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.ProductController.Get(System.Nullable{System.Int32})">
+            <summary>
+            get by id
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.ProductController.Get(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            get all products
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.ProductController.Add(tema3.Models.ProductModel)">
+            <summary>
+            add product
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.ProductController.Update(System.Int32,tema3.Models.ProductModel)">
+            <summary>
+            update product,with put
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.ProductController.Delete(System.Int32)">
+            <summary>
+            delete by id
+            </summary>
+        </member>
+        <member name="M:tema3.Controllers.ProductController.AddIngredientToProduct(System.Int32,tema3.Models.IngredientModel)">
+            <summary>
+            add ingredient to product
+            </summary>
+        </member>
+    </members>
+</doc>
