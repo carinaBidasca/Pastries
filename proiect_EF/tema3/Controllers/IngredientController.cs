@@ -180,7 +180,7 @@ namespace tema3.Controllers
         public  async Task<IActionResult> GetByQuantityAsync([FromRoute]int? quantity)
         {
             if (!quantity.HasValue)
-                return BadRequest("quantity cannot be null");
+                return BadRequest("quantity cannot be null or a negative number");
             var result = await _ingredientService.GetByQuantityAsync((int)quantity);
             if (!result.Any())
                 return NoContent();
